@@ -41,4 +41,4 @@ The project involves ingesting structured and unstructured data, transforming it
 
 ## AWS QuickSight Dashboard:
 
-![Sample Image](./Work/Youtube_QuickSight.jpg)
+![Sample Image](Work/Youtube_Quicksight.jpg)
