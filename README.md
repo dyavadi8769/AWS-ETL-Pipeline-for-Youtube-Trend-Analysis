@@ -2,7 +2,7 @@
 
 ## Summary
 
-The project involves ingesting structured and unstructured data, transforming it into a proper format, storing it in a centralized data lake, ensuring scalability, and leveraging cloud services. The final goal is to create a Power BI dashboard for insightful analytics using data stored in Amazon Athena.
+The project involves ingesting structured and unstructured data, transforming it into a proper format, storing it in a centralized data lake, ensuring scalability, and leveraging cloud services. The final goal is to create a Quicksight dashboard for insightful analytics using data stored in Amazon Athena.
 
 ## Project Goals:
 
@@ -10,7 +10,7 @@ The project involves ingesting structured and unstructured data, transforming it
 2. **ETL System:** Transform raw data into the proper format.
 3. **Data Lake:** Centralized repository for data from multiple sources.
 4. **Cloud:** Use AWS for processing vast amounts of data.
-5. **Reporting:** Build a Power BI dashboard for insights.
+5. **Reporting:** Build a QuickSight dashboard for insights.
 
 ## Services Used:
 
